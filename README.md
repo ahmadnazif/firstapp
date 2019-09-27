@@ -1,4 +1,4 @@
-# firstapp
+# Flutter demo
 
 i love dart
 i love flutter
